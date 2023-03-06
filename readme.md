@@ -1,4 +1,3 @@
-APi = e como se fosse um software ou uma biblioteca q serve pra permitir q alguma coisa comunique com outra coisa
-API -> interface de comunicacao
-
-restful = aplicacao rest seguindo todas as especificacoes
+*API de Games*</br>
+Fiz uma api de games, na qual criei um banco de dados falso com alguns jogos, id's, anos e precos. Juntamente, criei rotas para visualizar os jogos, deletar, editar e criar. </br>
+  Venho estudando node e essa foi minha primeira API!
