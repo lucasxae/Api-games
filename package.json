@@ -1,0 +1,15 @@
+{
+  "name": "gamer",
+  "version": "1.0.0",
+  "description": "APi = e como se fosse um software ou uma biblioteca q serve pra permitir q alguma coisa comunique com outra coisa\r API -> interface de comunicacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
